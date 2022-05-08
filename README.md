@@ -7,3 +7,4 @@ Tools Untuk Membuat Script Deface Dengan Praktis
 * apt upgrade
 * apt install python2
 
+*ls  aj yo cukk ekwkw
